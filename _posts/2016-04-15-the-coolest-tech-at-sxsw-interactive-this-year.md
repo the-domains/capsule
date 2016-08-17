@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T15:24:04.651Z'
+datePublished: '2016-08-17T15:25:57.096Z'
 sourcePath: _posts/2016-04-15-the-coolest-tech-at-sxsw-interactive-this-year.md
 inFeed: true
 isBasedOnUrl: >-
@@ -25,7 +25,8 @@ author:
   - name: '@alexbracetti'
     url: 'https://www.twitter.com/@alexbracetti'
     avatar: {}
-dateModified: '2016-08-17T15:24:03.674Z'
+via: {}
+dateModified: '2016-08-17T15:25:56.712Z'
 title: The Coolest Tech at SXSW Interactive This Year
 app_links:
   - namespace: twitter
@@ -42,10 +43,9 @@ description: >-
   2016.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Coolest Tech at SXSW Interactive This Year</h1><p>Everything from lifelike humanoids to VR-recording apps at SXSW Interactive 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/914b8f2c193ba23977d43dd2927ac45c36498fd3.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/914b8f2c193ba23977d43dd2927ac45c36498fd3.jpg" /><h1>The Coolest Tech at SXSW Interactive This Year</h1><p>Everything from lifelike humanoids to VR-recording apps at SXSW Interactive 2016.</p></article>
