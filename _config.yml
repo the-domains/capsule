@@ -1,0 +1,14 @@
+layout_spectrum: 0.67925132997334
+typography_spectrum: 0.9650335148908198
+color:
+  brandStrength: 0.6210736776702106
+  lightness: 0.03558346349745989
+  saturation: 0.4661928075365722
+  rhythmicContrast: 0.35280884616076946
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: capsule
